@@ -1,13 +1,30 @@
-Date,Time,Location,Opponent,Score,Victory_Status
-No. 2 Texas
-No. 2 Texas
-No. 13 Penn State
-RV Northwestern
-Rutgers
-Illinois
-Iowa
-Michigan
-Nebraska
-Indiana
-Minnesota
-Wisconsin
+"Date,Location,Opponent,Score,Result"
+"Fri Aug 26,home,No. 2 Texas,0-3,loss"
+"Sat Aug 27,home,No. 2 Texas,1-3,loss"
+"Sat Sep 3,away,No. 15 San Diego,0-3,loss"
+"Sun Sep 4,away,No. 3 Louisville,3-1,win"
+"Fri Sep 9,away,No. 10 BYU,3-0,win"
+"Sun Sep 11,away,No. 5 Georgia Tech,3-1,win"
+"Sat Sep 17,away,Tennessee,3-0,win"
+"Sun Sep 18,away,No. 12 Pittsburgh,0-3,loss"
+"Fri Sep 23,away,Iowa,3-0,win"
+"Sat Sep 24,away,No. 3 Nebraska,2-3,loss"
+"Wed Sep 28,away,RV Michigan,3-1,win"
+"Sat Oct 1,away,Indiana,3-1,win"
+"Fri Oct 7,home,No. 13 Penn State,3-2,win"
+"Sun Oct 9,home,RV Northwestern,To Be Played,1:00 pm"
+"Wed Oct 12,away,Minnesota,To Be Played,8:00 pm"
+"Sat Oct 15,home,Rutgers,To Be Played,5:00 pm"
+"Wed Oct 19,home,Illinois,To Be Played,6:00 pm"
+"Fri Oct 21,home,Iowa,To Be Played,7:00 pm"
+"Wed Oct 26,home,Michigan,To Be Played,7:00 pm"
+"Sat Oct 29,away,Penn State,To Be Played,TBA"
+"Fri Nov 4,away,Northwestern,To Be Played,8:00 pm"
+"Sat Nov 5,away,Michigan State,To Be Played,TBA"
+"Thu Nov 10,away,Purdue,To Be Played,7:00 pm"
+"Sun Nov 13,home,Nebraska,To Be Played,4:30 pm"
+"Fri Nov 18,away,Maryland,To Be Played,7:00 pm"
+"Sun Nov 20,home,Indiana,To Be Played,1:00 pm"
+"Fri Nov 25,home,Minnesota,To Be Played,6:00 pm"
+"Sat Nov 26,home,Wisconsin,To Be Played,7:00 pm"
+",,,,"
